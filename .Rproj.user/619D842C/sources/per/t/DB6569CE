@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1656676754524.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1213746106",
+    "id" : "DB6569CE",
+    "lastKnownWriteTime" : 1657704086,
+    "last_content_update" : 1657704087084,
+    "path" : "Z:/Marktplatz/For_Laura/Simulations_MM/simulate_mermods_tiling.R",
+    "project_path" : "simulate_mermods_tiling.R",
+    "properties" : {
+        "cursorPosition" : "19,0",
+        "docOutlineSize" : "181.99891434708752",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
